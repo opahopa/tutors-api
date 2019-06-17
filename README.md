@@ -3,7 +3,7 @@
 ### urls
 
 
-**movies**
+**tutors**
 * `/tutors/ GET`  get the list of tutors
 * `/tutors/ POST` create tutor
 * `/tutors/<id>/ GET` get tutor details
