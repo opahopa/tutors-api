@@ -1,0 +1,57 @@
+[
+  {
+    "model": "tutors.Tutor",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "subject": "Math",
+      "description": "I'll make you a god of math",
+      "register_date": "2019-02-18",
+      "score": 9.8
+    }
+  },
+  {
+    "model": "tutors.Tutor",
+    "pk": 2,
+    "fields": {
+      "name": "Mary",
+      "subject": "Math",
+      "description": "I'll help you to get through your tests",
+      "register_date": "2019-03-23",
+      "score": 6.5
+    }
+  },
+  {
+    "model": "tutors.Tutor",
+    "pk": 3,
+    "fields": {
+      "name": "Helen",
+      "subject": "biology",
+      "description": "I'm the best in town and i'm confident in being able to help your get through the exams",
+      "register_date": "2019-04-04",
+      "score": 7.1
+    }
+  },
+  {
+    "model": "tutors.Tutor",
+    "pk": 4,
+    "fields": {
+      "name": "Yang",
+      "subject": "mandarin",
+      "description": "Mandarin is easy with me!",
+      "register_date": "2019-05-01",
+      "score": 8.0
+    }
+  },
+  {
+    "model": "tutors.Tutor",
+    "pk": 5,
+    "fields": {
+      "name": "Bob",
+      "subject": "English",
+      "description": "IELTS 7+ guaranteed",
+      "register_date": "2019-06-13",
+      "score": 4.4
+    }
+  }
+]
